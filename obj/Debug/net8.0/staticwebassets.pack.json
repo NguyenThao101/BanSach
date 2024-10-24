@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Webbanhang\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webbanhang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Webbanhang.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\Webbanhang\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Webbanhang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Webbanhang.props",
+      "PackagePath": "build\\Webbanhang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Webbanhang.props",
+      "PackagePath": "buildMultiTargeting\\Webbanhang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Webbanhang.props",
+      "PackagePath": "buildTransitive\\Webbanhang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
